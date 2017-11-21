@@ -1,5 +1,4 @@
 # Blackjack at Casino
-added to this line by anil marella
 Implementation to generate blackjack games dataset. Inferential statistics over the generated dataset
 
 generate_blackjack_data.py will generate given number of blackjack games data for given number of tables in a casino.
